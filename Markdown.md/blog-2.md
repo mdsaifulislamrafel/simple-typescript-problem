@@ -5,4 +5,5 @@
 
 #### indexOf Check: If the first occurrence (indexOf(value)) of an element matches its current index, it is included in the new array. If it doesn't match, the element is excluded.
 
-##### For example, removeDuplicates([1, 1, 2, 2, 2, 3, 4, 5, 5, 6, 6]) returns [1, 2, 3, 4, 5, 6].
+###### example
+* removeDuplicates([1, 1, 2, 2, 2, 3, 4, 5, 5, 6, 6]) returns [1, 2, 3, 4, 5, 6].
