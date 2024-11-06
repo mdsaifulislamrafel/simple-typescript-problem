@@ -1,5 +1,5 @@
-Problem-2
-# Here, a function named removeDuplicates has been created, which takes an array of numbers as input and returns a new array with duplicates removed.
+# Problem-2
+ Here, a function named removeDuplicates has been created, which takes an array of numbers as input and returns a new array with duplicates removed.
 
 Using the filter Method: The filter method is used to check each element in the array.
 
