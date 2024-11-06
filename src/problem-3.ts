@@ -1,4 +1,4 @@
-const countWordOccurrences = (sentence: string, word: string) => {
+const countWordOccurrences = (sentence: string, word: string) : number => {
     const lowerSentence = sentence.toLowerCase();
     const lowerWord = word.toLowerCase();
     return lowerSentence.split(lowerWord).length - 1;
