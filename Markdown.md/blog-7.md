@@ -6,8 +6,8 @@
 
 #### getAge Method:
 
-##### The getAge method calculates the car’s age by finding the difference between the current year and the car’s manufacture year (year).
-##### It retrieves the current year using new Date().getFullYear().
+* The getAge method calculates the car’s age by finding the difference between the current year and the car’s manufacture year (year).
+* It retrieves the current year using new Date().getFullYear().
 ### Output:
 
 * console.log displays the output of getAge, showing the car’s age along with the current year in the format (assuming current year is ${new Date().getFullYear()}).
